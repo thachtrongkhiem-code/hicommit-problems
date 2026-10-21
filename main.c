@@ -2,11 +2,11 @@
 
 int main() {
   int n;
-  scanf (%d, &n);
+  scanf ("%d", &n);
   if (n % 2 == 0)
-    printf ("la so chan");
+    printf ("CHAN");
   else 
-    printf ("la so le");
+    printf ("LE");
   
   return 0; 
 }
